@@ -1,1 +1,1 @@
-# DCGAN-on-Scratch
+# DCGAN on Scratch
